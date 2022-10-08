@@ -1,0 +1,13 @@
+
+
+resourece "aws_istance" "test"
+name= "test"
+instace_count=1
+{
+ami   ="ami name"
+instanace_type="t2.micro"
+key_name= "user"
+vpc_security_gropu
+network_interface{
+interface_id =""
+devi
